@@ -1,18 +1,23 @@
 # quickblog
 layout for a basic blog reader. list of features-to-come in the description is always updating
-
+<br>
 TO DO LIST
 =================
 
 Urgent:
-1) allow users to put in the blog that they want to read
 
-2) allow users to choose between wordpress, blogspot, tumblr etc. -> expand to quora?
+<ul>
+<li> allow users to put in the blog that they want to read </li>
+
+<li> allow users to choose between wordpress, blogspot, tumblr etc. -> expand to quora? </li>
+
+</ul>
 
 Non-urgent:
-3) create quickBlog logo
 
-4) "pretty-up" quickBlog interface
+<ul>
+<li> create quickBlog logo </li>
+<li> "pretty-up" quickBlog interface</li>
+<li> have a section in which bugs can be reported</li>
 
-5) have a section in which bugs can be reported
-
+Please feel free to clone this repos and edit it to your liking!
